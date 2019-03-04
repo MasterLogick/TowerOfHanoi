@@ -17,3 +17,5 @@ will create solving for 5 disks and every movement will take 30 ticks.<br>
 will create solving for 5 disks and every movement will take 100 ticks.<br>
 <code>java -jar lwjgl3.jar</code><br>
 will create solving for 4 disks and every movement will take 100 ticks.<br>
+
+![Alt text](http://logick.eu5.org/png.png)
